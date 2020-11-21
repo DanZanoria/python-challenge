@@ -44,7 +44,7 @@ MinimunIncome = min(pandl)
 Total = {'Months': monthcounter, "Total Income":TotalIncome, "Income Average": incomeavg, "Maximum Income": MaximumIncome, "Minimum Income": MinimunIncome }
 print(Total)
 
-Outputtxt = open("main.txt","w")
+Outputtxt = open("analysis/PybankAnalysis.txt","w")
 Outputtxt.write(str(Total))
 Outputtxt.close()
 
