@@ -1,1 +1,0 @@
-{'Months': 86, 'Total Income': 38382578, 'Income Average': 446309.0465116279, 'Maximum Income': '999942', 'Minimum Income': '-1022534'}
